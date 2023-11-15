@@ -4,3 +4,5 @@ Starting homework and making decent progress. Getting to the last 12 months of p
 The app is coming along nicely. Mixing code from the last class of advanced SQL and chatgpt I can come up with the correct syntax without too much issues.
 
 Should be all finished up, just have to test it out and were good to go. If I want to get tutors more then I need to schedule the sessions on Wednesday at the latest.
+
+Final upload and everything is green.
